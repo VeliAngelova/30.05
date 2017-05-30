@@ -1,0 +1,6 @@
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Beverage_Labels\bin\Debug\Beverage_Labels.exe.config
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Beverage_Labels\bin\Debug\Beverage_Labels.exe
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Beverage_Labels\bin\Debug\Beverage_Labels.pdb
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Beverage_Labels\obj\Debug\Beverage_Labels.csprojResolveAssemblyReference.cache
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Beverage_Labels\obj\Debug\Beverage_Labels.exe
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Beverage_Labels\obj\Debug\Beverage_Labels.pdb

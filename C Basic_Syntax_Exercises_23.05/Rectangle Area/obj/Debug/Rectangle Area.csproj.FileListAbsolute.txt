@@ -1,0 +1,5 @@
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Rectangle Area\bin\Debug\Rectangle Area.exe.config
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Rectangle Area\bin\Debug\Rectangle Area.exe
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Rectangle Area\bin\Debug\Rectangle Area.pdb
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Rectangle Area\obj\Debug\Rectangle Area.exe
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Rectangle Area\obj\Debug\Rectangle Area.pdb

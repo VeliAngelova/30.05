@@ -1,0 +1,6 @@
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Miles_to_Kilometers\bin\Debug\Miles_to_Kilometers.exe.config
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Miles_to_Kilometers\bin\Debug\Miles_to_Kilometers.exe
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Miles_to_Kilometers\bin\Debug\Miles_to_Kilometers.pdb
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Miles_to_Kilometers\obj\Debug\Miles_to_Kilometers.csprojResolveAssemblyReference.cache
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Miles_to_Kilometers\obj\Debug\Miles_to_Kilometers.exe
+D:\Pgograming fundaments\C Basic_Syntax_Exercises_23.05\Miles_to_Kilometers\obj\Debug\Miles_to_Kilometers.pdb
